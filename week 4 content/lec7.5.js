@@ -1,0 +1,1 @@
+//promise static method .:-kuchh samajh nai aaya fir se dekho. race , all , all settled ye sab ke bare me bataya hai
